@@ -1,0 +1,32 @@
+﻿Web App Design
+
+
+
+What:
+
+Button to trigger voice recording w/js
+Speech to text
+Push to Lex
+Process
+Return result to JS
+JS Text to Speech
+
+
+
+How:
+
+Record and stream in chunks:
+https://medium.com/@bryanjenningz/how-to-record-and-play-audio-in-javascript-faa1b2b3e49b
+https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API/Using_the_MediaStream_Recording_API
+
+Speech to text in js?
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API
+https://github.com/DKMitt/speech-to-text-js
+https://www.studytonight.com/post/javascript-speech-recognition-example-speech-to-text
+https://developers.google.com/web/updates/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API
+
+Play result (Text to Speech)
+https://www.section.io/engineering-education/text-to-speech-in-javascript/
+https://dev.to/asaoluelijah/text-to-speech-in-3-lines-of-javascript-b8h
+https://stackoverflow.com/questions/15653145/using-google-text-to-speech-in-javascript
+
