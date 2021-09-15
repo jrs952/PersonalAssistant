@@ -23,12 +23,7 @@ namespace desktop.personalassistant
 
         SpeechRecognitionEngine _rEngine = new SpeechRecognitionEngine();
         SpeechSynthesizer _speechSynth = new SpeechSynthesizer();
-        System.Media.SoundPlayer musicPlayer = new System.Media.SoundPlayer();
-
-        //VlcMediaPlayer vlcPlayer = new VlcMediaPlayer(new DirectoryInfo(Environment.CurrentDirectory));
-
         List<IGrammar> _grammars = new List<IGrammar>();
-
 
         public Form1()
         {
